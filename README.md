@@ -1,5 +1,7 @@
 # IFRITH — Network Monitor & Site Attribution Engine
-
+<p align="center">
+  <img src="assets/1.png" alt="IFRIT - Network Threat Hunter and Site Attribution Engine" width="100%">
+</p>
 
 ⚠️ Legal & Ethical Notice — READ FIRST
 
