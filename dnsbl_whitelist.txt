@@ -1,0 +1,1195 @@
+.1password.com
+.abtfcu.org # alliant credit union (il)
+.accuweather.com
+.adp.com
+.affinitiplus.org # affinity plus federal credit union (mn)
+.affinity.org # affinity federal credit union (nj)
+.ai.google
+.airtable.com
+.aiv-cdn.net
+.akamai.net
+.akamaiedge.net
+.alabamacu.com # alabama credit union
+.alaskausafcu.org # alaska usa federal credit union
+.alliantcreditunion.org # alliant credit union
+.ally.com # ally bank
+.amazon.com
+.americafirst.com # america first credit union (ut)
+.americanexpress.com # american express
+.amex.com # american express
+.anthropic.com
+.api.tiktok.com
+.api16.tiktok.com
+.api19.tiktok.com
+.apnews.com
+.apple.com
+.arizonafederal.org # arizona federal credit union
+.arkansasfcu.org # arkansas federal credit union
+.arstechnica.com
+.asana.com
+.atmocreditunion.com # atmos energy credit union (tx)
+.audible.com
+.auth0.com
+.avadian.org # avadian credit union (al)
+.bamboohr.com
+.bandcamp.com
+.bankofamerica.com # bank of america
+.battle.net
+.bbc.co.uk
+.bbc.com
+.bbt.com # bb&t (truist)
+.becu.org # boeing employees credit union (wa)
+.behance.net
+.bestbuy.com
+.bethpagefcu.com # bethpage federal credit union (ny)
+.bio.link
+.bitbucket.org
+.bitly.com
+.bitwarden.com
+.blizzard.com
+.bluepcu.com # blue federal credit union (wy)
+.box.com
+.brave.com
+.bsky.app
+.bsky.social
+.bugsnag.com
+.bytedance.com
+.byteoversea.com
+.calendly.com
+.campsite.bio
+.canva.com
+.capedfcu.org # capital educators federal credit union (id)
+.capitalone.com # capital one
+.carrd.co
+.cbs.com
+.cdn-apple.com
+.cdninstagram.com
+.cdnjs.com
+.chase.com # chase bank
+.circleci.com
+.citi.com # citibank
+.citibank.com # citibank
+.citizens.com # citizens bank
+.clarkcountycu.org # clark county credit union (nv)
+.claude.ai
+.clickup.com
+.cloudflare.com
+.cloudinary.com
+.cnn.com
+.como.org # community america credit union (mo)
+.connycu.org # connecticut state employees credit union
+.copilot.github.com
+.cpcreditunion.org # community america credit union (ks)
+.crunchyroll.com
+.dakotalandbank.com # dakotaland federal credit union (sd)
+.dcu.org # digital federal credit union (ma)
+.deezer.com
+.delone.org # del-one federal credit union (de)
+.deltacommunityfcu.com # delta community credit union (ga)
+.desertschools.org # desert schools federal credit union (az)
+.deviantart.com
+.deviantart.net
+.digicert.com
+.digitalocean.com
+.discordapp.com
+.discover.com # discover bank
+.disneyplus.com
+.docusign.com
+.docusign.net
+.dribbble.com
+.dropbox.com
+.dropboxusercontent.com
+.dssott.com
+.duckduckgo.com
+.duo.com
+.duosecurity.com
+.ea.com
+.ebay.com
+.edgesuite.net
+.elgato.com
+.emby.media
+.ent.com # ent credit union (co)
+.epicgames.com
+.epiphan.com
+.eporner.com
+.etsy.com
+.etsystatic.com
+.facebook.com
+.fansly.com
+.fastly.net
+.fbcdn.net
+.fbsbx.com
+.fifththird.com # fifth third bank
+.figma.com
+.firstnebraska.org # first nebraska credit union
+.firsttech.org # first tech federal credit union (ca/or)
+.force.com
+.freshdesk.com
+.funimation.com
+.ghcr.io
+.github.com
+.github.io
+.githubusercontent.com
+.gitlab.com
+.gog.com
+.gogcdn.net
+.goldcoastfcu.org # golden 1 credit union (ca)
+.golden1.com # golden 1 credit union (ca)
+.goldmansachs.com # goldman sachs (marcus)
+.goodreads.com
+.gotomeeting.com
+.graph.microsoft.com
+.groq.com
+.gstatic.com
+.guilded.gg
+.gusto.com
+.hackaday.com
+.hashicorp.com
+.hawaiistatefcu.com # hawaii state federal credit union
+.hbomax.com
+.heroku.com
+.hicufcu.org # hawaiian islands credit union
+.home-assistant.io
+.homebridge.io
+.hubspot.com
+.huggingface.co
+.hulu.com
+.humble.com
+.humblebundle.com
+.huntington.com # huntington bank
+.ibew3.org # bethpage federal credit union (ny)
+.ibyteimg.com
+.icloud-content.com
+.icloud.com
+.imgix.net
+.indianauniversity.org # indiana university credit union
+.instagram.com
+.itch.io
+.ivpn.net
+.jellyfin.org
+.jsdelivr.net
+.jumpcloud.com
+.kagi.com
+.keepassxc.org
+.keesler.org # keesler federal credit union (ms)
+.kemba.org # kemba credit union (oh)
+.key.com # keybank
+.ko-fi.com
+.langleycu.org # langley federal credit union (va)
+.last.fm
+.latinocu.org # latino community credit union (il)
+.leagueoflegends.com
+.letsencrypt.org
+.letterboxd.com
+.lge-cu.com # coastal credit union (nc)
+.lgfcu.org # lge community credit union (ga)
+.licdn.com
+.lightstream.com
+.linkedin.com
+.linkin.bio
+.linktr.ee
+.linode.com
+.live.tiktok.com
+.lmcu.org # lake michigan credit union
+.logix.org # logix federal credit union (ca)
+.lucid.co
+.mainestatecu.org # maine state credit union
+.mapbox.com
+.maps.google.com
+.maps.googleapis.com
+.marcus.com # marcus by goldman sachs
+.mastodon.online
+.mastodon.social
+.max.com
+.medium.com
+.midflorida.com # midflorida credit union
+.miro.com
+.mistral.ai
+.mitfcu.org # mit federal credit union (ma)
+.modelhub.com
+.monday.com
+.montanacu.com # montana federal credit union
+.mountainamericacu.com # mountain america credit union (ut)
+.msgcu.org # michigan state university federal credit union
+.mtb.com # m&t bank
+.mufg.jp # mufg union bank
+.mullvad.net
+.muscdn.com
+.mzstatic.com
+.nabucasa.com
+.nationalbank.com # national bank of arizona
+.navigantcu.org # navigant credit union (ri)
+.navyfederal.org # navy federal credit union
+.ncsecu.org # state employees' credit union of north carolina
+.netflix.com
+.netlify.com
+.newegg.com
+.newrelic.com
+.nextdoor.com
+.nflxvideo.net
+.nintendo.com
+.nintendo.net
+.notion.so
+.npmjs.com
+.npr.org
+.nytimes.com
+.okta.com
+.oktacdn.com
+.ollama.ai
+.onedrive.com
+.onelogin.com
+.onenvcu.org # one nevada credit union
+.onlyfans.com
+.onpointcu.com # onpoint community credit union (or)
+.openai.com
+.openstreetmap.org
+.openweathermap.org
+.opsgenie.com
+.oregonstatecu.com # oregon state credit union
+.origin.com
+.orion.org # orion federal credit union (tn)
+.osint.bambenekconsulting.com
+.pagerduty.com
+.pages.dev
+.pandora.com
+.paramountplus.com
+.patreon.com
+.paypal.com
+.peacocktv.com
+.penfed.org # pentagon federal credit union
+.perplexity.ai
+.phncdn.com
+.pinimg.com
+.pinterest.com
+.playstation.com
+.playstation.net
+.plex.tv
+.pluto.tv
+.pnc.com # pnc bank
+.pornhub.com
+.primevideo.com
+.prism.live
+.proton.me
+.protonmail.com
+.protonvpn.com
+.psecu.com # pennsylvania state employees credit union
+.pypi.org
+.quora.com
+.quoracdn.net
+.qwant.com
+.randolphbrooks.org # randolph-brooks federal credit union (tx)
+.redd.it
+.reddit.com
+.redditmedia.com
+.redditstatic.com
+.redrivercu.org # red river credit union (la)
+.redtube.com
+.regions.com # regions bank
+.replicate.com
+.restream.io
+.reuters.com
+.ringcentral.com
+.riot.com
+.riotgames.com
+.roku.com
+.roundpointmortgage.com # roundpoint mortgage (oh)
+.salesforce.com
+.santanderbank.com # santander bank
+.sc-cdn.net
+.sccu.com # san diego county credit union (ca)
+.scfcu.org # south carolina federal credit union
+.schoolsfirstfcu.org # schoolsfirst federal credit union (ca)
+.schwab.com # charles schwab bank
+.secumd.org # secu of maryland
+.securityservicefcu.org # security service federal credit union (tx)
+.sentry.io
+.servicecu.org # service credit union (nh)
+.sesloc.org # secu of maryland
+.sharepoint.com
+.shopify.com
+.signal.org
+.slack-edge.com
+.slack.com
+.snapchat.com
+.snapchat.map.fastly.net
+.snfcu.org # sandia laboratory federal credit union (nm)
+.sonyentertainmentnetwork.com
+.soundcloud.com
+.spankbang.com
+.spire.org # spire credit union (mn)
+.splunk.com
+.spotify.com
+.stackoverflow.com
+.starionbank.com # starion financial (nd)
+.startpage.com
+.statefarm.com # state farm bank
+.stcu.org # spokane teachers credit union (wa)
+.steamcommunity.com
+.steamcontent.com
+.steampipe.steamcontent.com
+.steampowered.com
+.steamstatic.com
+.strava.com
+.streamelements.com
+.streamlabs.com
+.streamyard.com
+.stripe.com
+.substack.com
+.substackcdn.com
+.summitcreditunion.com # summit credit union (wi)
+.sumologic.com
+.suncoastcreditunion.com # suncoast credit union (fl)
+.suntrust.com # suntrust (truist)
+.synchronybank.com # synchrony bank
+.t.me
+.target.com
+.tdbank.com # td bank
+.techcrunch.com
+.telcocu.com # teachers credit union (in)
+.telegram.org
+.telhio.org # telhio credit union (oh)
+.terraform.io
+.tfcu.org # teachers federal credit union (ny)
+.theguardian.com
+.theverge.com
+.threads.net
+.tidal.com
+.tik-tokcdn.com
+.tiktok.com
+.tiktokcdn.com
+.tiktokv.com
+.tinker.org # tinker federal credit union (ok)
+.tinyurl.com
+.together.ai
+.travis-ci.com
+.trello.com
+.truist.com # truist bank
+.trumarkcreditunion.org # trumark financial credit union (pa)
+.ttvnw.net
+.tubi.tv
+.tumblr.com
+.tvacreditunion.com # tva community credit union (tn)
+.twimg.com
+.twitch.tv
+.twitter.com
+.ubisoft.com
+.ufcu.org # university federal credit union (tx)
+.uky.edu # university of kentucky federal credit union
+.unionbank.com # union bank
+.unrealengine.com
+.uplayconnect.com
+.usaa.com # usaa
+.usbank.com # u.s. bank
+.uwcu.org # uw credit union (wi)
+.vacu.org # virginia credit union
+.valorant.com
+.vdo.ninja
+.venmo.com
+.vercel.com
+.veridiancu.org # veridian credit union (ia)
+.verisign.com
+.vistaccu.com # vystar credit union (fl)
+.vonage.com
+.vrv.co
+.vtfcu.org # vermont federal credit union
+.vudu.com
+.walmart.com
+.washingtonpost.com
+.wbx2.com
+.weather.com
+.weather.gov
+.webcast.tiktok.com
+.webex.com
+.wecu.com # wecu (wa)
+.wellsfargo.com # wells fargo
+.wescom.org # wescom credit union (ca)
+.whatsapp.com
+.whatsapp.net
+.wikimedia.org
+.wikipedia.org
+.wingsfinancialcu.org # wings financial credit union (co)
+.wired.com
+.workday.com
+.workers.dev
+.wrightpattcu.org # wright-patt credit union (oh)
+.wvcu.org # west virginia credit union
+.x.com
+.xbox.com
+.xboxlive.com
+.xhamster.com
+.xnxx-cdn.com
+.xnxx.com
+.xvideos-cdn.com
+.xvideos.com
+.youporn.com
+.zendesk.com
+.zoom.us
+1password.com
+a.ltrbxd.com
+a.privatelink.msidentity.com
+abs.twimg.com
+abtfcu.org # alliant credit union (il)
+account.proton.me
+account.xbox.com
+accounts.ea.com
+accounts.google.com
+accounts.googleusercontent.com
+accounts.nintendo.com
+accuweather.com
+acme-v02.api.letsencrypt.org
+adp.com
+affinitiplus.org # affinity plus federal credit union (mn)
+affinity.org # affinity federal credit union (nj)
+ai.google
+airtable.com
+aiv-cdn.net
+alabamacu.com # alabama credit union
+alaskausafcu.org # alaska usa federal credit union
+alliantcreditunion.org # alliant credit union
+ally.com # ally bank
+amazon.com
+amazonvideo.com
+americafirst.com # america first credit union (ut)
+americanexpress.com # american express
+amex.com # american express
+amp-api.podcasts.apple.com
+amzn.to
+android.clients.google.com
+anthropic.com
+api-2fa.duosecurity.com
+api-global.netflix.com
+api.anthropic.com
+api.bsky.app
+api.cloudflare.com
+api.duckduckgo.com
+api.duosecurity.com
+api.guilded.gg
+api.ipify.org
+api.jumpcloud.com
+api.linkedin.com
+api.mapbox.com
+api.openai.com
+api.openweathermap.org
+api.pinterest.com
+api.signal.org
+api.steampowered.com
+api.twitter.com
+api.x.com
+apnews.com
+app.asana.com
+app.box.com
+app.clickup.com
+app.emby.media
+app.plex.tv
+app.snapchat.com
+appboot.netflix.com
+apple.com
+appleid.apple.com
+applemusic.apple.com
+appletvplus.apple.com
+apps.apple.com
+appstoreconnect.apple.com
+apresolve.spotify.com
+arizonafederal.org # arizona federal credit union
+arkansasfcu.org # arkansas federal credit union
+arstechnica.com
+asana.com
+assets.tumblr.com
+assetshuluimcom-a.akamaihd.net
+atmocreditunion.com # atmos energy credit union (tx)
+attestation.xboxlive.com
+audible.com
+audio-ake.spotify.com.edgesuite.net
+auth0.com
+avadian.org # avadian credit union (al)
+avatars.githubusercontent.com
+aws.amazon.com
+bamboohr.com
+bandcamp.com
+bankofamerica.com # bank of america
+bard.google.com
+battle.net
+battleye.com
+bbc.co.uk
+bbc.com
+bbt.com # bb&t (truist)
+beacons.ai
+becu.org # boeing employees credit union (wa)
+behance.net
+bestbuy.com
+bethpagefcu.com # bethpage federal credit union (ny)
+bio.link
+bit.ly
+bitbucket.io
+bitbucket.org
+bitwarden.com
+blizzard.com
+bluepcu.com # blue federal credit union (wy)
+blzstatic.cn
+box.com
+brave.com
+brave.software
+bsky.app
+bsky.social
+bugsnag.com
+byteoversea.com
+c3.patreon.com
+calendly.com
+campsite.bio
+canva.com
+capedfcu.org # capital educators federal credit union (id)
+capitalone.com # capital one
+carrd.co
+cbs.com
+cbsi.com
+cdn-images-1.medium.com
+cdn-lfs.huggingface.co
+cdn.akamai.steamstatic.com
+cdn.beacons.ai
+cdn.bsky.app
+cdn.discordapp.com
+cdn.dribbble.com
+cdn.guilded.gg
+cdn.jsdelivr.net
+cdn.ko-fi.com
+cdn.openai.com
+cdn.patreon.com
+cdn.shopify.com
+cdn.sstatic.net
+cdn.streamelements.com
+cdn.streamlabs.com
+cdn1-img.phncdn.com
+cdn1-vid.phncdn.com
+cdnjs.cloudflare.com
+cdnjs.com
+cert.mgt.xboxlive.com
+chase.com # chase bank
+chat.kick.com
+chat.openai.com
+circleci.com
+citi.com # citibank
+citibank.com # citibank
+citizens.com # citizens bank
+clarkcountycu.org # clark county credit union (nv)
+claude.ai
+clickup.com
+clientconfig.passport.net
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+cloudflare-dns.com
+cloudflare.com
+cnn.com
+como.org # community america credit union (mo)
+configuration.apple.com
+connect.ubisoft.com
+conntest.nintendowifi.net
+connycu.org # connecticut state employees credit union
+console.cloud.google.com
+console.jumpcloud.com
+copilot.github.com
+copilot.microsoft.com
+core.telegram.org
+cpcreditunion.org # community america credit union (ks)
+crates.io
+creator.tiktok.com
+crunchyroll.com
+cse.google.com
+cv.phncdn.com
+d3nn82uez8jyqy.cloudfront.net
+dakotalandbank.com # dakotaland federal credit union (sd)
+dash.cloudflare.com
+dashboard.plex.tv
+dcu.org # digital federal credit union (ma)
+deezer.com
+delone.org # del-one federal credit union (de)
+deltacommunityfcu.com # delta community credit union (ga)
+desertschools.org # desert schools federal credit union (az)
+desktop.signal.org
+developer.apple.com
+deviantart.com
+device.auth.xboxlive.com
+di.phncdn.com
+digicert.com
+digitalocean.com
+discord.com
+discordapp.net
+discover.com # discover bank
+disneyplus.com
+dns.msftncsi.com
+dockerhub.com
+docs.google.com
+docusign.com
+docusign.net
+dribbble.com
+drive.google.com
+dropbox.com
+dropboxusercontent.com
+dssott.com
+duckduckgo.com
+duo.com
+duosecurity.com
+ea.com
+easyanticheat.net
+ebay.com
+eds.xboxlive.com
+ei.phncdn.com
+elgato.com
+emby.media
+encrypted-tbn0.gstatic.com
+ent.com # ent credit union (co)
+epicgames.com
+epicgamesusercontent.com
+epiphan.com
+eporner.com
+etsy.com
+etsystatic.com
+external-content.duckduckgo.com
+external-preview.redd.it
+facebook.com
+fansly.com
+fastly.net
+fastlylb.net
+fifththird.com # fifth third bank
+figma.com
+files.pythonhosted.org
+files.slack.com
+firstnebraska.org # first nebraska credit union
+firsttech.org # first tech federal credit union (ca/or)
+fls-na.amazon.com
+fonts.googleapis.com
+fonts.gstatic.com
+freshdesk.com
+funimation.com
+galaxyapi.gog.com
+gateway.discord.gg
+gemini.google.com
+generativelanguage.googleapis.com
+geo3.ggpht.com
+ghcr.io
+github.com
+github.io
+gitlab.com
+gitlab.io
+glyph.medium.com
+gog.com
+gogcdn.net
+goldcoastfcu.org # golden 1 credit union (ca)
+golden1.com # golden 1 credit union (ca)
+goldmansachs.com # goldman sachs (marcus)
+goo.gl
+goodreads.com
+google.com
+googleapis.com
+googlevideo.com
+gotomeeting.com
+gql.twitch.tv
+graph.microsoft.com
+groq.com
+gsa.apple.com
+gspe1-ssl.ls.apple.com
+gstatic.com
+guilded.gg
+gusto.com
+hackaday.com
+hashicorp.com
+hawaiistatefcu.com # hawaii state federal credit union
+hbomax.com
+heroku.com
+hicufcu.org # hawaiian islands credit union
+home-assistant.io
+homebridge.io
+hub.docker.com
+hubspot.com
+huggingface.co
+hulu.com
+humble.com
+humblebundle.com
+huntington.com # huntington bank
+i.pinimg.com
+i.redd.it
+i.scdn.co
+i.ytimg.com
+ibew3.org # bethpage federal credit union (ny)
+ichnaea.netflix.com
+icloud.com
+idmsa.apple.com
+images-na.ssl-images-amazon.com
+images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
+images.gog.com
+images.gr-assets.com
+imgix.net
+indianauniversity.org # indiana university credit union
+instagram.com
+instantmessaging-pa.googleapis.com
+ipv4.login.msa.akadns6.net
+irc-ws.chat.twitch.tv
+is.gd
+is1-ssl.mzstatic.com
+is2-ssl.mzstatic.com
+itch.io
+itunes.apple.com
+ivpn.net
+jellyfin.org
+jenkins.io
+joinmastodon.org
+js.stripe.com
+jsdelivr.net
+jumpcloud.com
+kagi.com
+keepassxc.org
+keesler.org # keesler federal credit union (ms)
+kemba.org # kemba credit union (oh)
+key.com # keybank
+khms0.google.com
+khms1.google.com
+kick.com
+ko-fi.com
+langleycu.org # langley federal credit union (va)
+last.fm
+lastfm.freetls.fastly.net
+latinocu.org # latino community credit union (il)
+launcher-public-service-prod.ol.epicgames.com
+leagueoflegends.com
+letsencrypt.org
+letterboxd.com
+lge-cu.com # coastal credit union (nc)
+lgfcu.org # lge community credit union (ga)
+licensing.xboxlive.com
+lightstream.com
+linkedin.com
+linkin.bio
+links.duckduckgo.com
+linktr.ee
+linode.com
+lmcu.org # lake michigan credit union
+login.live.com
+login.microsoftonline.com
+login.msa.akadns6.net
+login.windows.net
+logix.org # logix federal credit union (ca)
+lucid.co
+m.media-amazon.com
+mail.proton.me
+mainestatecu.org # maine state credit union
+manifest.googlevideo.com
+mapbox.com
+maps.google.com
+maps.googleapis.com
+marcus.com # marcus by goldman sachs
+market.spotify.com
+mastodon.online
+mastodon.social
+max.com
+media.discordapp.net
+media.guilded.gg
+media.licdn.com
+media.tumblr.com
+medium.com
+messenger.com
+meta.plex.bz
+meta.plex.tv
+midflorida.com # midflorida credit union
+mir-s3-cdn-cf.behance.net
+miro.com
+mistral.ai
+mitfcu.org # mit federal credit union (ma)
+mmg.whatsapp.net
+mobile-ap.spotify.com
+modelhub.com
+monday.com
+montanacu.com # montana federal credit union
+mountainamericacu.com # mountain america credit union (ut)
+msftconnecttest.com
+msftncsi.com
+msgcu.org # michigan state university federal credit union
+mtb.com # m&t bank
+mts0.google.com
+mts1.google.com
+mufg.jp # mufg union bank
+mullvad.net
+muscdn.com
+music.apple.com
+my.1password.com
+my.home-assistant.io
+my.plexapp.com
+myaccount.google.com
+nabucasa.com
+nationalbank.com # national bank of arizona
+navigantcu.org # navigant credit union (ri)
+navyfederal.org # navy federal credit union
+ncsecu.org # state employees' credit union of north carolina
+netflix.com
+netlify.com
+newegg.com
+newrelic.com
+nextdoor.com
+nflxvideo.net
+nintendo.com
+nintendo.net
+node.plexapp.com
+notion.com
+notion.so
+npm.io
+npmjs.com
+npr.org
+nytimes.com
+o1.email.plex.tv
+oauthaccountmanager.googleapis.com
+objects.githubusercontent.com
+obsproject.com
+ocsp.apple.com
+ocsp.comodoca.com
+ocsp.digicert.com
+ocsp.globalsign.com
+ocsp.pki.goog
+ocsp.sectigo.com
+okta.com
+ollama.ai
+one.one.one.one
+onedrive.live.com
+onelogin.com
+onenvcu.org # one nevada credit union
+onlyfans.com
+onpointcu.com # onpoint community credit union (or)
+open.spotify.com
+openai.com
+openstreetmap.org
+openweathermap.org
+opsgenie.com
+oregonstatecu.com # oregon state credit union
+origin.com
+orion.org # orion federal credit union (tn)
+ow.ly
+packagist.org
+pagerduty.com
+pages.dev
+pandora.com
+paramountplus.com
+patreon.com
+paypal.com
+pbs.twimg.com
+peacocktv.com
+penfed.org # pentagon federal credit union
+perplexity.ai
+pics.ebay.com
+pinterest.com
+platform.linkedin.com
+platform.openai.com
+playstation.com
+playstation.net
+plex.tv
+pluto.tv
+pnc.com # pnc bank
+pornhub.com
+portal.azure.com
+prda.aadg.msidentity.com
+preview.redd.it
+prime-video.com
+prism.live
+proton.me
+protonmail.com
+protonvpn.com
+psecu.com # pennsylvania state employees credit union
+psn.playstation.net
+pubsub.plex.tv
+pypi.org
+qph.cf2.quoracdn.net
+quora.com
+qwant.com
+radar.cloudflare.com
+randolphbrooks.org # randolph-brooks federal credit union (tx)
+raw.githubusercontent.com
+recaptcha.net
+reddit.com
+redirector.googlevideo.com
+redrivercu.org # red river credit union (la)
+redtube.com
+regions.com # regions bank
+registry.docker.io
+registry.npmjs.org
+replicate.com
+repo.jellyfin.org
+res.cloudinary.com
+resources-cdn.plex.tv
+restream.io
+reuters.com
+ringcentral.com
+riot.com
+riotgames.com
+roku.com
+roundpointmortgage.com # roundpoint mortgage (oh)
+s.gr-assets.com
+s.ltrbxd.com
+s.pinimg.com
+s.youtube.com
+s.ytimg.com
+s2.youtube.com
+salesforce.com
+santanderbank.com # santander bank
+sccu.com # san diego county credit union (ca)
+scfcu.org # south carolina federal credit union
+schoolsfirstfcu.org # schoolsfirst federal credit union (ca)
+schwab.com # charles schwab bank
+scontent.cdninstagram.com
+scontent.xx.fbcdn.net
+search.brave.com
+searx.me
+searxng.org
+secumd.org # secu of maryland
+secure.netflix.com
+securityservicefcu.org # security service federal credit union (tx)
+sentry.io
+servicecu.org # service credit union (nh)
+sesloc.org # secu of maryland
+sheets.google.com
+shopify.com
+signal.org
+slack-edge.com
+slack.com
+slides.google.com
+snapchat.com
+snfcu.org # sandia laboratory federal credit union (nm)
+socialstream.ninja
+sonyentertainmentnetwork.com
+soundcloud.com
+spankbang.com
+spclient.wg.spotify.com
+spire.org # spire credit union (mn)
+splunk.com
+spod.sharepoint.com
+spotify.com
+spread.duckduckgo.com
+ssl.gstatic.com
+stackoverflow.com
+starionbank.com # starion financial (nd)
+starplus.com
+startpage.com
+statefarm.com # state farm bank
+static.licdn.com
+static.whatsapp.net
+static.xx.fbcdn.net
+status.plex.tv
+stcu.org # spokane teachers credit union (wa)
+steamcdn-a.akamaihd.net
+steamcommunity.com
+steampowered.com
+storage.googleapis.com
+storage.ko-fi.com
+store.playstation.com
+store.steampowered.com
+strava.com
+streamelements.com
+streamlabs.com
+streamyard.com
+stripe.com
+styles.redditmedia.com
+substack.com
+substackcdn.com
+summitcreditunion.com # summit credit union (wi)
+sumologic.com
+suncoastcreditunion.com # suncoast credit union (fl)
+suntrust.com # suntrust (truist)
+support.apple.com
+support.google.com
+symcb.com
+symcd.com
+synchronybank.com # synchrony bank
+t.co
+t.me
+target.com
+tdbank.com # td bank
+techcrunch.com
+telcocu.com # teachers credit union (in)
+telegram.me
+telegram.org
+telhio.org # telhio credit union (oh)
+terraform.io
+tfcu.org # teachers federal credit union (ny)
+theguardian.com
+theverge.com
+threads.net
+tidal.com
+tik-tokcdn.com
+tiktok.com
+tiktokcdn.com
+tiktokv.com
+tile.openstreetmap.org
+tinker.org # tinker federal credit union (ok)
+tinyurl.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+together.ai
+travis-ci.com
+trello-attachments.s3.amazonaws.com
+trello.com
+truist.com # truist bank
+trumarkcreditunion.org # trumark financial credit union (pa)
+tubi.tv
+tumblr.com
+tv.apple.com
+tvacreditunion.com # tva community credit union (tn)
+twimg.com
+twitch.tv
+twitter.com
+ubisoft.com
+ufcu.org # university federal credit union (tx)
+uky.edu # university of kentucky federal credit union
+unionbank.com # union bank
+unpkg.com
+unrealengine.com
+updates.signal.org
+upgrade.scdn.com
+uplayconnect.com
+uplaypc-s-ubisoft.ubi.com
+upload.wikimedia.org
+urlscan.io
+us.blizzard.com
+usaa.com # usaa
+usbank.com # u.s. bank
+uwcu.org # uw credit union (wi)
+v.firebog.net
+v.redd.it
+vacu.org # virginia credit union
+valorant.com
+vault.bitwarden.com
+vdo.ninja
+venmo.com
+vercel.com
+veridiancu.org # veridian credit union (ia)
+verisign.com
+video-stats.l.google.com
+vistaccu.com # vystar credit union (fl)
+vonage.com
+vrv.co
+vtfcu.org # vermont federal credit union
+vudu.com
+walmart.com
+washingtonpost.com
+weather.com
+weather.gov
+web.telegram.org
+web.whatsapp.com
+webex.com
+wecu.com # wecu (wa)
+wellsfargo.com # wells fargo
+wescom.org # wescom credit union (ca)
+whatsapp.com
+wikipedia.org
+wingsfinancialcu.org # wings financial credit union (co)
+wired.com
+wixmp.com
+workday.com
+workers.dev
+wrightpattcu.org # wright-patt credit union (oh)
+ws.audioscrobbler.com
+wvcu.org # west virginia credit union
+www.accuweather.com
+www.amazon.com
+www.apnews.com
+www.apple.com
+www.arstechnica.com
+www.bbc.com
+www.beacons.ai
+www.behance.net
+www.bestbuy.com
+www.bit.ly
+www.canva.com
+www.cloudflare.com
+www.cnn.com
+www.deviantart.com
+www.dribbble.com
+www.dropbox.com
+www.duckduckgo.com
+www.ea.com
+www.ebay.com
+www.epicgames.com
+www.eporner.com
+www.etsy.com
+www.facebook.com
+www.fansly.com
+www.figma.com
+www.github.com
+www.gog.com
+www.goodreads.com
+www.google.com
+www.googleapis.com
+www.guilded.gg
+www.hackaday.com
+www.instagram.com
+www.kick.com
+www.ko-fi.com
+www.last.fm
+www.letterboxd.com
+www.linkedin.com
+www.linktr.ee
+www.medium.com
+www.messenger.com
+www.msftconnecttest.com
+www.newegg.com
+www.nextdoor.com
+www.notion.so
+www.npr.org
+www.nytimes.com
+www.obsproject.com
+www.onlyfans.com
+www.ow.ly
+www.patreon.com
+www.paypal.com
+www.perplexity.ai
+www.pinterest.com
+www.pornhub.com
+www.quora.com
+www.qwant.com
+www.recaptcha.net
+www.reddit.com
+www.redtube.com
+www.reuters.com
+www.snapchat.com
+www.socialstream.ninja
+www.spankbang.com
+www.startpage.com
+www.strava.com
+www.substack.com
+www.target.com
+www.techcrunch.com
+www.telegram.org
+www.theguardian.com
+www.theverge.com
+www.threads.net
+www.tiktok.com
+www.tumblr.com
+www.twitter.com
+www.urlscan.io
+www.walmart.com
+www.washingtonpost.com
+www.weather.com
+www.weather.gov
+www.whatsapp.com
+www.wired.com
+www.x.com
+www.xhamster.com
+www.xnxx.com
+www.xvideos.com
+www.youporn.com
+x.com
+xbox.com
+xboxlive.com
+xhamster.com
+xnxx.com
+xsts.auth.xboxlive.com
+xvideos.com
+youporn.com
+youtu.be
+youtube-nocookie.com
+youtube.com
+youtubei.googleapis.com
+yt3.ggpht.com
+ytimg.com
+zendesk.com
+zeustracker.abuse.ch
+zoom.us
+zoomgov.com
