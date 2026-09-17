@@ -173,6 +173,9 @@ Shutdown actions Stop engines, close DB, write export JSON, dump PCAP, unlink so
 ---
 
 6. Responsibility
+<p align="center">
+  <img src="assets/2.png" width="100%" alt="IFRITH Terminal Interface">
+</p>
 
 Running IFRITH means you accept all of the following:
 
