@@ -3,7 +3,7 @@
 
 ⚠️ Legal & Ethical Notice — READ FIRST
 
-IFRITH is a gray-hat tool. It ships offensive primitives (ARP poisoning, rogue DHCP, RA/NDP injection, TLS interception, DNS forgery) wrapped inside a defensive dashboard. That duality is intentional — but it comes with a hard rule:
+IFRITH is a gray-hat tool. It ships offensive primitives (ARP poisoning, rogue DHCP, RA/NDP injection, TLS interception, DNS forgery) wrapped inside a defensive environment. That duality is intentional — but it comes with a hard rule:
 
 Run IFRITH only on networks you own, operate, or have explicit written permission to test.
 
